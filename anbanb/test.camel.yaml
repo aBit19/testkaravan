@@ -1,0 +1,11 @@
+- route:
+    id: route-87e3
+    from:
+      uri: avro
+      id: from-21bc
+      steps:
+        - filter:
+            id: filter-de4a
+            expression:
+              constant:
+                id: constant-d4b6
